@@ -1,0 +1,1 @@
+pip install google-genai Pillow supervision opencv-python
